@@ -1,0 +1,42 @@
+# Unity generated folders — never commit these.
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Unity generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Crash reports
+sysinfo.txt
+
+# Note on .meta files: Unity .meta files MUST be committed. They carry the
+# GUIDs that link assets, scripts, and ScriptableObjects together. If a
+# .meta file is missing, Unity generates a new GUID and references break.
+# This ignore file deliberately does not exclude *.meta.

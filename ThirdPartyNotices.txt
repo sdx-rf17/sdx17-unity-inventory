@@ -1,0 +1,24 @@
+THIRD-PARTY NOTICES
+Sdx17 Inventory Framework, version 0.1.0
+Copyright 2026 Sdx17 — MIT License (see LICENSE)
+
+No third-party code, fonts, audio, or assets are included in this
+package.
+
+All code in this package (Runtime/, Editor/, Samples~/, Tests~/)
+is original work by Sdx17, written for this framework, and is
+covered by the MIT License in the LICENSE file at the package root.
+
+No bundled dependencies. The package has no dependencies of any
+kind — no paid dependencies, no third-party libraries, no fonts,
+no audio files, no textures, no models, and no other assets
+created by anyone other than Sdx17.
+
+The only external technology the package relies on is the Unity
+engine itself (Unity 2022.3 LTS), which is not bundled with the
+package and is licensed separately by Unity Technologies to the
+user.
+
+If any third-party material is ever added to this package in a
+future version, this file must be updated to list it, with its
+license, before that version is published.
