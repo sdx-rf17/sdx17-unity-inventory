@@ -25,7 +25,7 @@ namespace Sdx17.Inventory.Samples
             if (service == null)
                 service = InventoryService.Instance;
             if (service == null)
-                service = FindObjectOfType<InventoryService>();
+                service = FindAnyObjectByType<InventoryService>();
         }
 
         private void Start()

@@ -25,7 +25,7 @@ namespace Sdx17.Inventory.Editor
         [MenuItem("Sdx17/Inventory/Add Inventory Service to Scene", false, 2)]
         public static void AddInventoryServiceToScene()
         {
-            var existing = Object.FindObjectOfType<InventoryService>();
+            var existing = Object.FindAnyObjectByType<InventoryService>();
             if (existing != null)
             {
                 Selection.activeObject = existing.gameObject;
